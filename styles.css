@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+body{
+	margin:10px;
+}
+th{
+	text-align:left;
+	background-color:lightcyan
+}
+td{
+	text-align:right;
+}
+.left{
+	text-align:left;
+}
+.tr1{
+	background-color:lightblue;
+}
+.tr2{
+	background-color:lightpink;
+}
+.tr3{
+	background-color:lightgray;
+}
